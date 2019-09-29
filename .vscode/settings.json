@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "contiki.h": "c",
+        "contiki-net.h": "c",
+        "ip64.h": "c",
+        "uip.h": "c"
+    }
+}
